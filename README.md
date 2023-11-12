@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TahaHeidari
 - 👀 I’m interested in programming a web
-- 🌱 I’m currently learning javascript,django and java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning kotlin,django and java.
+- I'm a web developer and also a guitarist.
 
 <!---
 TahaHeidari/TahaHeidari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
